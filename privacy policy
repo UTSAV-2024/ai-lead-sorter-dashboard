@@ -1,0 +1,17 @@
+_Last Updated: [Date]_
+
+This Privacy Policy describes how the AI Lead Sorter application ("the App") handles your information.
+
+**1. Information We Access**
+With your explicit consent, the App will access your Google Account to:
+- Read the content (sender, subject, body) of your unread emails via the Gmail API.
+- Read and write data to your Google Sheets via the Google Sheets API.
+
+**2. How We Use Information**
+The App uses this access solely to perform its primary function: identifying potential leads from your emails and saving them to a Google Sheet you specify. Your email content is processed by an AI model to perform this task and is not stored or used for any other purpose.
+
+**3. Data Storage**
+The App does not have its own database. All your information remains within your Google Account. The only data "stored" is the lead information saved to your own Google Sheet. Authentication tokens are stored securely to maintain your session.
+
+**4. Contact**
+If you have any questions, please contact utsavkumar1283@gmail.com
