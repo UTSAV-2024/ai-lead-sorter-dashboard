@@ -2,8 +2,7 @@
 
 This is a full-stack web application that leverages a multi-tool AI agent to function as an autonomous sales assistant. It provides a user-friendly interface for securely processing unread emails, identifying and analyzing hot leads, and automatically saving them to a Google Sheet.
 
-![AI Lead Sorter Dashboard](https://i.imgur.com/your-screenshot-url.png)
-*(Suggestion: Take a screenshot of your running app and replace the URL above)*
+
 
 ## Core Capabilities
 
