@@ -1,0 +1,17 @@
+.env
+venv/
+__pycache__/
+*.pyc   
+.DS_Store
+.ipynb_checkpoints
+.env.local
+.env.development
+.env.production
+
+# Ignore IDE specific files
+.vscode/    
+.idea/
+*.iml
+*.sub   
+credentials.json
+token.json
